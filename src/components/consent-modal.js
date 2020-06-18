@@ -62,7 +62,7 @@ export default class ConsentModal extends React.Component {
                         {acceptButton}
                         {declineButton}
                     </div>
-                    <p className="cm-powered-by"><a target="_blank" href={config.poweredBy || 'https://klaro.kiprotect.com'} rel="noopener noreferrer">{t(['poweredBy'])}</a></p>
+
                 </div>
             </div>
         </div>
